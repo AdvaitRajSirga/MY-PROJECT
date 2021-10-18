@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: black;
+    background-image: linear-gradient(blue, yellow);
+}
+
+a{
+    color: brown;
+}

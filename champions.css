@@ -1,0 +1,32 @@
+body{
+    background-color: darkmagenta;
+}
+
+h1{
+    text-align: center;
+    color: greenyellow;
+    background-image: linear-gradient(blue, red, yellow);
+}
+ 
+p{
+    color: black;
+    text-align: center;
+}
+
+table{
+    margin-left: 470px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 345px;
+    background-image: linear-gradient(red, yellow, blue);
+}
+
+hr{
+    color: indigo;
+}
+
+a{
+    color: black;
+}

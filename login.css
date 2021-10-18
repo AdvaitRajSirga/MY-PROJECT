@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+}
+
+form{
+    text-align: center;
+}
+
+label{
+    color: turquoise;
+}
+
+input{
+    background-color: turquoise;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}

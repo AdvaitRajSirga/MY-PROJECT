@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+    background-size: 50%;
+    }
+    
+    div{
+    margin-top: 70px;
+    }
+    
+    h1{
+    font-size: 39px;
+    color: deepskyblue;
+    }  
+   
+    span{
+    font-size: 30px;
+    color: darkblue;
+    background-image: linear-gradient(to right, red,orange,yellow);
+    }
+
+    h3{
+        color: green;
+    }
+
+    p{
+     margin-top: 160px ;
+     font-size: 25px;
+     color: darkorange;
+     
+    } 

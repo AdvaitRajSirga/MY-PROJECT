@@ -1,0 +1,17 @@
+body{
+    background-color: darkblue;
+}
+
+h1{
+    text-align: center;
+    color: darkcyan;
+}
+
+p{
+    text-align: center;
+    color: lightgreen;
+}
+
+a{
+    color: lightgreen;
+}
